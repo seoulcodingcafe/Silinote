@@ -1,0 +1,9 @@
+Write and keep single line notes using this very easy application.
+Example: for website address, for email address, for IP address, for URL, for phone number, for reminder, for message template, for names, or anything single line.
+
+Features
+1. Export using .txt files.
+2. Import using .txt files.
+3. Easy search.
+4. Easy copy using long click.
+5. Open source.

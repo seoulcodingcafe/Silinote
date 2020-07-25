@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        app:key="commandthemeconfiguration"
+        app:title="@string/theme_configuration" />
+    <Preference
+        app:key="commandexport"
+        app:summary="@string/one_note_equal_one_line"
+        app:title="@string/export_txt_file" />
+    <Preference
+        app:key="commandimport"
+        app:summary="@string/one_line_equal_one_note"
+        app:title="@string/import_txt_file" />
+</PreferenceScreen>

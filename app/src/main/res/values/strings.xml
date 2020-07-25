@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Silinote</string>
+    <string name="notes">Notes</string>
+    <string name="configuration">Configuration</string>
+    <string name="theme_configuration">Theme configuration</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="new_note">new note</string>
+    <string name="Edit_note">Edit note</string>
+    <string name="New_note">New note</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="export_txt_file">Export .txt file</string>
+    <string name="import_txt_file">Import .txt file</string>
+    <string name="one_line_equal_one_note">One line = one note</string>
+    <string name="one_note_equal_one_line">One note = one line</string>
+    <string name="note_copied_to_the_clipboard">Note copied to the clipboard.</string>
+    <string name="license">License</string>
+    <string name="version">Version</string>
+    <string name="exporting">Exporting</string>
+    <string name="importing">Importing</string>
+    <string name="exported_the_notes">Exported the notes.</string>
+    <string name="imported_the_notes">Imported the notes.</string>
+    <string name="error">Error:</string>
+    <string name="loading">Loading</string>
+    <string name="this_program_is_free_software">
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    </string>
+
+</resources>
